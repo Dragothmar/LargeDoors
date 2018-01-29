@@ -1,4 +1,4 @@
-package dragothmar.LargeDoors.common;
+package dragothmar.largedoors.common;
 
 /**
  * Created by Dragothmar on 1/15/2018.
